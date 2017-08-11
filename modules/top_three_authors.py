@@ -1,7 +1,16 @@
-import psycopg2
+from modules import connection
 
-DBNAME = "news"
-db = psycopg2.connect(database=DBNAME)
 
-cursor = db.cursor()
+def get_top_three_authors():
+    cursor = connection.get_connection()
+    top_three_authors = """
+        SELECT
+        
+    """
+    cursor.execute(top_three_authors)
+    return cursor.fetchall()
 
+
+def format_top_three_articles():
+    authors = get_top_three_authors()
+    # Insert here

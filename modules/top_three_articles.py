@@ -1,4 +1,4 @@
-from modules import connection
+from modules import connection, formatter
 
 
 def get_top_three_articles():
@@ -15,5 +15,11 @@ def get_top_three_articles():
 
 
 def format_top_three_articles():
-    articles = get_top_three_articles()
-    # Insert here
+    print("Top articles:")
+    formatter.repeat_separator()
+    for item in get_top_three_articles():
+        print("The total views for the article '" + str(item[2]) +
+              "', by the author '" + str(item[3]) +
+              "' on the page '" + str(item[1]) +
+              "' are " + formatter.format_num(item[0]) + '.')
+    formatter.repeat_separator()
