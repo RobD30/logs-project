@@ -1,4 +1,5 @@
-from modules import connection, formatter
+from modules import connection
+from modules import formatter
 
 
 def get_top_three_articles():

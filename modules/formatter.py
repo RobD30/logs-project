@@ -1,4 +1,4 @@
-def repeat_seperator(num: int = 25, sep: str = '-'):
+def repeat_separator(num: int = 25, sep: str = '-'):
     print(sep * num)
 
 
