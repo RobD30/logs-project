@@ -1,25 +1,26 @@
 from modules import connection
-# from modules import formatter
+from modules import formatter
 
 
 def get_top_three_articles():
     cursor = connection.get_connection()
     error_reports = """
-        select time::date,
+        SELECT time::DATE,
         SUM (
             CASE WHEN status = '200 OK'
             THEN 1
             ELSE 0
-            End) AS success,
+            END) AS success,
         SUM (
             CASE WHEN status  =  '404 NOT FOUND.'
-            Then 1
+            THEN 1
             ELSE 0
             END) AS error
-        FROM log GROUP BY time::date;
+        FROM log GROUP BY time::DATE;
     """
     cursor.execute(error_reports)
     return cursor.fetchall()
+
 
 def print_error_logs():
     print("Top articles:")

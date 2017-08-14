@@ -1,11 +1,12 @@
 from modules import connection
-# from modules import formatter
+from modules import formatter
+
 
 def get_top_three_authors():
     cursor = connection.get_connection()
     top_three_authors = """
-        SELECT name, author, title, path, COUNT(path) as hits
-        From articles, log, authors
+        SELECT name, author, title, path, COUNT(path) AS hits
+        FROM articles, log, authors
         WHERE log.path = CONCAT('/article/', articles.slug)
         AND articles.author = authors.id
         GROUP BY path, title, name, author

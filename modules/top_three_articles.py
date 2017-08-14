@@ -1,5 +1,5 @@
 from modules import connection
-# from modules import formatter
+from modules import formatter
 
 
 def get_top_three_articles():
