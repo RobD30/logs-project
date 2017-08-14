@@ -7,11 +7,12 @@ def get_top_three_articles():
     error_reports = """
         select time::date,
         SUM (
-            case when status = '200 OK' THEN 1
-            else 0
-            end) AS success,
+            CASE WHEN status = '200 OK'
+            THEN 1
+            ELSE 0
+            End) AS success,
         SUM (
-            case when status  =  'some hipster nonsens'
+            CASE WHEN status  =  
     """
     cursor.execute(error_reports)
     return cursor.fetchall()
