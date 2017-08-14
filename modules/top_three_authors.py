@@ -15,6 +15,12 @@ def get_top_three_authors():
     return cursor.fetchall()
 
 
-# def format_top_three_articles():
-#     authors = get_top_three_authors()
-#     # Insert here
+def print_top_three_authors():
+    print("Top Authors:")
+    formatter.repeat_separator()
+    for item in get_top_three_articles():
+        print("The total views for the article '" + str(item[2]) +
+              "', by the author '" + str(item[3]) +
+              "' on the page '" + str(item[1]) +
+              "' are " + formatter.format_num(item[0]) + '.')
+    formatter.repeat_separator()

@@ -21,12 +21,12 @@ def get_top_three_articles():
     cursor.execute(error_reports)
     return cursor.fetchall()
 
-# def format_top_three_articles():
-#     print("Top articles:")
-#     formatter.repeat_separator()
-#     for item in get_top_three_articles():
-#         print("The total views for the article '" + str(item[2]) +
-#               "', by the author '" + str(item[3]) +
-#               "' on the page '" + str(item[1]) +
-#               "' are " + formatter.format_num(item[0]) + '.')
-#     formatter.repeat_separator()
+def print_error_logs():
+    print("Top articles:")
+    formatter.repeat_separator()
+    for item in get_top_three_articles():
+        print("The total views for the article '" + str(item[2]) +
+              "', by the author '" + str(item[3]) +
+              "' on the page '" + str(item[1]) +
+              "' are " + formatter.format_num(item[0]) + '.')
+    formatter.repeat_separator()
