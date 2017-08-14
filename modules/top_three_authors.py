@@ -1,5 +1,5 @@
 from modules import connection
-
+# from modules import formatter
 
 def get_top_three_authors():
     cursor = connection.get_connection()
@@ -15,6 +15,6 @@ def get_top_three_authors():
     return cursor.fetchall()
 
 
-def format_top_three_articles():
-    authors = get_top_three_authors()
-    # Insert here
+# def format_top_three_articles():
+#     authors = get_top_three_authors()
+#     # Insert here
