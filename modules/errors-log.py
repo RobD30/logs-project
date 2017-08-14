@@ -9,7 +9,7 @@ def get_top_three_articles():
         SUM (
             case when status = '200 OK' THEN 1
             else 0
-            end) AS success 
+            end) AS success,  
     """
     cursor.execute(error_reports)
     return cursor.fetchall()
