@@ -12,7 +12,11 @@ def get_top_three_articles():
             ELSE 0
             End) AS success,
         SUM (
-            CASE WHEN status  =  
+            CASE WHEN status  =  '404 NOT FOUND.'
+            Then 1
+            ELSE 0
+            END) AS error
+        FROM log GROUP BY time::date;
     """
     cursor.execute(error_reports)
     return cursor.fetchall()
