@@ -19,7 +19,7 @@ def get_top_three_authors():
 def print_top_three_authors():
     print("Top Authors:")
     formatter.repeat_separator()
-    for item in get_top_three_articles():
+    for item in get_top_three_authors():
         print("The total views for the article '" + str(item[2]) +
               "', by the author '" + str(item[3]) +
               "' on the page '" + str(item[1]) +
