@@ -10,7 +10,7 @@ def get_top_three_authors():
         WHERE log.path = CONCAT('/article/', articles.slug)
         AND articles.author = authors.id
         GROUP BY path, title, name, author
-        ORDER BY hits DESC;    
+        ORDER BY hits DESC;
     """
     cursor.execute(top_three_authors)
     return cursor.fetchall()

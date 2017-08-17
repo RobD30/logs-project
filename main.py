@@ -7,4 +7,6 @@ def main():
     top_three_authors.print_top_three_authors()
     error_logs.print_error_logs()
 
-if __name__ == '__main__': main()
+
+if __name__ == '__main__':
+    main()

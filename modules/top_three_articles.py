@@ -7,9 +7,9 @@ def get_top_three_articles():
     top_three_articles = ("""
         SELECT title, path, COUNT(path) AS hits, authors.name
         FROM articles
-        JOIN authors 
+        JOIN authors
         ON articles.author = authors.id
-        JOIN log 
+        JOIN log
         ON log.path = concat('/article/', articles.slug)
         GROUP BY title, path, authors.name
         ORDER BY hits DESC LIMIT 3;
