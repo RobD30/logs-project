@@ -27,3 +27,5 @@ IndexError: tuple index out of range
 
 Process finished with exit code 1
 ```
+
+4. Now I just had a problem when I refactored changing the directory and project name in pycharm. Fixed it though.
