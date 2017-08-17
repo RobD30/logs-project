@@ -3,7 +3,7 @@ from modules import formatter
 
 
 # Bad name, this is not the top three articles
-def get_top_three_articles():
+def get_status_log():
     cursor = connection.get_connection()
     # You need to join the logs to the path
     error_reports = """
@@ -27,7 +27,7 @@ def get_top_three_articles():
 def print_error_logs():
     print("Top articles:")
     formatter.repeat_separator()
-    for item in get_top_three_articles():
+    for item in get_status_log():
         pass
 
     formatter.repeat_separator()
