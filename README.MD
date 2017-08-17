@@ -14,7 +14,7 @@ This project was created using Python version 3.6.1, please see requirements.txt
 2. Had problems with the last query.
 3. The most current error is
 
-```
+```Python
 C:\Python36\python.exe C:/Users/Rob/PycharmProjects/logs_project/main.py
 Top articles:
 -------------------------
