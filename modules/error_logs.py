@@ -2,7 +2,6 @@ from modules import connection
 from modules import formatter
 
 
-# Bad name, this is not the top three articles
 def get_status_log():
     cursor = connection.get_connection()
     # You need to join the logs to the path
