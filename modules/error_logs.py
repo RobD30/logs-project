@@ -24,7 +24,7 @@ def get_status_log():
             END) AS error,
             log.path
         FROM log JOIN articles
-        ON log.time
+        ON log.time = articles.time
         GROUP BY time::DATE, path)
         SELECT t.time, t.error, t.path, t.success
         FROM t
