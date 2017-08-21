@@ -1,6 +1,7 @@
 from modules import connection
 from modules import formatter
 
+
 def main():
     print_error_logs()
 
@@ -22,8 +23,8 @@ def get_status_log():
             ELSE 0
             END) AS error,
             log.path
-        FROM log JOIN authors
-        on log.path
+        FROM log JOIN articles
+        ON log.time
         GROUP BY time::DATE, path)
         SELECT t.time, t.error, t.path, t.success
         FROM t
@@ -42,6 +43,7 @@ def print_error_logs():
         pass
 
     formatter.repeat_separator()
+
 
 if __name__ == '__main__':
     main()
