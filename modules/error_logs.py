@@ -22,7 +22,8 @@ def get_status_log():
             ELSE 0
             END) AS error,
             log.path
-        FROM log
+        FROM log JOIN authors
+        on log.path
         GROUP BY time::DATE, path)
         SELECT t.time, t.error, t.path, t.success
         FROM t
@@ -37,7 +38,7 @@ def get_status_log():
 def print_error_logs():
     print("Errors:")
     formatter.repeat_separator()
-    for error in get_status_log():
+    for item in get_status_log():
         pass
 
     formatter.repeat_separator()
