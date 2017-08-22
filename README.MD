@@ -30,5 +30,7 @@ IndexError: tuple index out of range
 
 Process finished with exit code 1
 ```
-
+I continued to have this problem until the teacher showed me the foolish ways of my off by one errors.
 4. Now I just had a problem when I refactored changing the directory and project name in pycharm. Fixed it though.
+5. After that I had many problems throwing a join in there for no reason I think lol.
+6. Then wasn't getting any output at all because I left a ```pass``` in my print function.
