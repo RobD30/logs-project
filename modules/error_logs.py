@@ -8,7 +8,6 @@ def main():
 
 def get_status_log():
     cursor = connection.get_connection()
-    # You need to join the logs to the path
     error_reports = """
         WITH t AS (
         SELECT time::DATE AS time,
@@ -23,8 +22,7 @@ def get_status_log():
             ELSE 0
             END) AS error,
             log.path
-        FROM log JOIN articles
-        ON log.time = articles.time
+        FROM log
         GROUP BY time::DATE, path)
         SELECT t.time, t.error, t.path, t.success
         FROM t
