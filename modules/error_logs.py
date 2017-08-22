@@ -38,7 +38,7 @@ def print_error_logs():
     print("Errors:")
     formatter.repeat_separator()
     for item in get_status_log():
-        pass
+        return print_error_logs()
 
     formatter.repeat_separator()
 
