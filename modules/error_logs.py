@@ -38,8 +38,10 @@ def print_error_logs():
     print("Errors:")
     formatter.repeat_separator()
     for item in get_status_log():
-        return print_error_logs()
-
+        print("The total views for the article '" + str(item[2]) +
+              "', by the author '" + str(item[0]) +
+              "' on the page '" + str(item[3]) +
+              "' are " + formatter.format_num(item[3]) + '.')
     formatter.repeat_separator()
 
 
