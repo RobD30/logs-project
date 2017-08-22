@@ -1,0 +1,274 @@
+C:\Python36\python.exe C:/Users/Rob/PycharmProjects/logs-project/main.py
+Top articles:
+-------------------------
+('Candidate is jerk, alleges rival', '/article/candidate-is-jerk', 338647, 'Rudolf von Treppenwitz')
+The total views for the article 'Candidate is jerk, alleges rival', by the author 'Rudolf von Treppenwitz' on the page '/article/candidate-is-jerk' are 338,647.
+('Bears love berries, alleges bear', '/article/bears-love-berries', 253801, 'Ursula La Multa')
+The total views for the article 'Bears love berries, alleges bear', by the author 'Ursula La Multa' on the page '/article/bears-love-berries' are 253,801.
+('Bad things gone, say good people', '/article/bad-things-gone', 170098, 'Anonymous Contributor')
+The total views for the article 'Bad things gone, say good people', by the author 'Anonymous Contributor' on the page '/article/bad-things-gone' are 170,098.
+-------------------------
+Top Authors:
+-------------------------
+The total views for the article 'Candidate is jerk, alleges rival', by the author 'Rudolf von Treppenwitz' on the page '/article/candidate-is-jerk' are 338,647.
+The total views for the article 'Bears love berries, alleges bear', by the author 'Ursula La Multa' on the page '/article/bears-love-berries' are 253,801.
+The total views for the article 'Bad things gone, say good people', by the author 'Anonymous Contributor' on the page '/article/bad-things-gone' are 170,098.
+The total views for the article 'Goats eat Google's lawn', by the author 'Ursula La Multa' on the page '/article/goats-eat-googles' are 84,906.
+The total views for the article 'Trouble for troubled troublemakers', by the author 'Rudolf von Treppenwitz' on the page '/article/trouble-for-troubled' are 84,810.
+The total views for the article 'Balloon goons doomed', by the author 'Markoff Chaney' on the page '/article/balloon-goons-doomed' are 84,557.
+The total views for the article 'There are a lot of bears', by the author 'Ursula La Multa' on the page '/article/so-many-bears' are 84,504.
+The total views for the article 'Media obsessed with bears', by the author 'Ursula La Multa' on the page '/article/media-obsessed-with-bears' are 84,383.
+-------------------------
+Errors:
+-------------------------
+The total errors for the article '/article/bad-things-gone' on the date '2016-07-01' are 5,634.
+The total errors for the article '/article/balloon-goons-doomed' on the date '2016-07-01' are 2,798.
+The total errors for the article '/article/bears-love-berries' on the date '2016-07-01' are 8,257.
+The total errors for the article '/article/candidate-is-jerk' on the date '2016-07-01' are 11,071.
+The total errors for the article '/article/goats-eat-googles' on the date '2016-07-01' are 2,768.
+The total errors for the article '/article/media-obsessed-with-bears' on the date '2016-07-01' are 2,786.
+The total errors for the article '/article/so-many-bears' on the date '2016-07-01' are 2,767.
+The total errors for the article '/article/trouble-for-troubled' on the date '2016-07-01' are 2,662.
+The total errors for the article '/article/bad-things-gone' on the date '2016-07-02' are 5,532.
+The total errors for the article '/article/balloon-goons-doomed' on the date '2016-07-02' are 2,810.
+The total errors for the article '/article/bears-love-berries' on the date '2016-07-02' are 8,167.
+The total errors for the article '/article/candidate-is-jerk' on the date '2016-07-02' are 11,087.
+The total errors for the article '/article/goats-eat-googles' on the date '2016-07-02' are 2,764.
+The total errors for the article '/article/media-obsessed-with-bears' on the date '2016-07-02' are 2,755.
+The total errors for the article '/article/so-many-bears' on the date '2016-07-02' are 2,798.
+The total errors for the article '/article/trouble-for-troubled' on the date '2016-07-02' are 2,840.
+The total errors for the article '/article/bad-things-gone' on the date '2016-07-03' are 5,496.
+The total errors for the article '/article/balloon-goons-doomed' on the date '2016-07-03' are 2,776.
+The total errors for the article '/article/bears-love-berries' on the date '2016-07-03' are 8,429.
+The total errors for the article '/article/candidate-is-jerk' on the date '2016-07-03' are 11,226.
+The total errors for the article '/article/goats-eat-googles' on the date '2016-07-03' are 2,806.
+The total errors for the article '/article/media-obsessed-with-bears' on the date '2016-07-03' are 2,777.
+The total errors for the article '/article/so-many-bears' on the date '2016-07-03' are 2,748.
+The total errors for the article '/article/trouble-for-troubled' on the date '2016-07-03' are 2,741.
+The total errors for the article '/article/bad-things-gone' on the date '2016-07-04' are 5,627.
+The total errors for the article '/article/balloon-goons-doomed' on the date '2016-07-04' are 2,774.
+The total errors for the article '/article/bears-love-berries' on the date '2016-07-04' are 8,415.
+The total errors for the article '/article/candidate-is-jerk' on the date '2016-07-04' are 10,982.
+The total errors for the article '/article/goats-eat-googles' on the date '2016-07-04' are 2,794.
+The total errors for the article '/article/media-obsessed-with-bears' on the date '2016-07-04' are 2,682.
+The total errors for the article '/article/so-many-bears' on the date '2016-07-04' are 2,718.
+The total errors for the article '/article/trouble-for-troubled' on the date '2016-07-04' are 2,714.
+The total errors for the article '/article/bad-things-gone' on the date '2016-07-05' are 5,551.
+The total errors for the article '/article/balloon-goons-doomed' on the date '2016-07-05' are 2,733.
+The total errors for the article '/article/bears-love-berries' on the date '2016-07-05' are 8,308.
+The total errors for the article '/article/candidate-is-jerk' on the date '2016-07-05' are 11,083.
+The total errors for the article '/article/goats-eat-googles' on the date '2016-07-05' are 2,816.
+The total errors for the article '/article/media-obsessed-with-bears' on the date '2016-07-05' are 2,753.
+The total errors for the article '/article/so-many-bears' on the date '2016-07-05' are 2,797.
+The total errors for the article '/article/trouble-for-troubled' on the date '2016-07-05' are 2,740.
+The total errors for the article '/article/bad-things-gone' on the date '2016-07-06' are 5,540.
+The total errors for the article '/article/balloon-goons-doomed' on the date '2016-07-06' are 2,725.
+The total errors for the article '/article/bears-love-berries' on the date '2016-07-06' are 8,146.
+The total errors for the article '/article/candidate-is-jerk' on the date '2016-07-06' are 11,161.
+The total errors for the article '/article/goats-eat-googles' on the date '2016-07-06' are 2,820.
+The total errors for the article '/article/media-obsessed-with-bears' on the date '2016-07-06' are 2,730.
+The total errors for the article '/article/so-many-bears' on the date '2016-07-06' are 2,751.
+The total errors for the article '/article/trouble-for-troubled' on the date '2016-07-06' are 2,823.
+The total errors for the article '/article/bad-things-gone' on the date '2016-07-07' are 5,529.
+The total errors for the article '/article/balloon-goons-doomed' on the date '2016-07-07' are 2,784.
+The total errors for the article '/article/bears-love-berries' on the date '2016-07-07' are 8,324.
+The total errors for the article '/article/candidate-is-jerk' on the date '2016-07-07' are 11,111.
+The total errors for the article '/article/goats-eat-googles' on the date '2016-07-07' are 2,715.
+The total errors for the article '/article/media-obsessed-with-bears' on the date '2016-07-07' are 2,719.
+The total errors for the article '/article/so-many-bears' on the date '2016-07-07' are 2,724.
+The total errors for the article '/article/trouble-for-troubled' on the date '2016-07-07' are 2,807.
+The total errors for the article '/article/bad-things-gone' on the date '2016-07-08' are 5,546.
+The total errors for the article '/article/balloon-goons-doomed' on the date '2016-07-08' are 2,898.
+The total errors for the article '/article/bears-love-berries' on the date '2016-07-08' are 8,335.
+The total errors for the article '/article/candidate-is-jerk' on the date '2016-07-08' are 11,183.
+The total errors for the article '/article/goats-eat-googles' on the date '2016-07-08' are 2,823.
+The total errors for the article '/article/media-obsessed-with-bears' on the date '2016-07-08' are 2,714.
+The total errors for the article '/article/so-many-bears' on the date '2016-07-08' are 2,764.
+The total errors for the article '/article/trouble-for-troubled' on the date '2016-07-08' are 2,733.
+The total errors for the article '/article/bad-things-gone' on the date '2016-07-09' are 5,418.
+The total errors for the article '/article/balloon-goons-doomed' on the date '2016-07-09' are 2,719.
+The total errors for the article '/article/bears-love-berries' on the date '2016-07-09' are 8,408.
+The total errors for the article '/article/candidate-is-jerk' on the date '2016-07-09' are 11,103.
+The total errors for the article '/article/goats-eat-googles' on the date '2016-07-09' are 2,705.
+The total errors for the article '/article/media-obsessed-with-bears' on the date '2016-07-09' are 2,753.
+The total errors for the article '/article/so-many-bears' on the date '2016-07-09' are 2,862.
+The total errors for the article '/article/trouble-for-troubled' on the date '2016-07-09' are 2,860.
+The total errors for the article '/article/bad-things-gone' on the date '2016-07-10' are 5,577.
+The total errors for the article '/article/balloon-goons-doomed' on the date '2016-07-10' are 2,768.
+The total errors for the article '/article/bears-love-berries' on the date '2016-07-10' are 8,444.
+The total errors for the article '/article/candidate-is-jerk' on the date '2016-07-10' are 11,080.
+The total errors for the article '/article/goats-eat-googles' on the date '2016-07-10' are 2,707.
+The total errors for the article '/article/media-obsessed-with-bears' on the date '2016-07-10' are 2,630.
+The total errors for the article '/article/so-many-bears' on the date '2016-07-10' are 2,737.
+The total errors for the article '/article/trouble-for-troubled' on the date '2016-07-10' are 2,732.
+The total errors for the article '/article/bad-things-gone' on the date '2016-07-11' are 5,479.
+The total errors for the article '/article/balloon-goons-doomed' on the date '2016-07-11' are 2,658.
+The total errors for the article '/article/bears-love-berries' on the date '2016-07-11' are 8,137.
+The total errors for the article '/article/candidate-is-jerk' on the date '2016-07-11' are 10,851.
+The total errors for the article '/article/goats-eat-googles' on the date '2016-07-11' are 2,733.
+The total errors for the article '/article/media-obsessed-with-bears' on the date '2016-07-11' are 2,879.
+The total errors for the article '/article/so-many-bears' on the date '2016-07-11' are 2,726.
+The total errors for the article '/article/trouble-for-troubled' on the date '2016-07-11' are 2,740.
+The total errors for the article '/article/bad-things-gone' on the date '2016-07-12' are 5,650.
+The total errors for the article '/article/balloon-goons-doomed' on the date '2016-07-12' are 2,830.
+The total errors for the article '/article/bears-love-berries' on the date '2016-07-12' are 8,505.
+The total errors for the article '/article/candidate-is-jerk' on the date '2016-07-12' are 11,214.
+The total errors for the article '/article/goats-eat-googles' on the date '2016-07-12' are 2,700.
+The total errors for the article '/article/media-obsessed-with-bears' on the date '2016-07-12' are 2,746.
+The total errors for the article '/article/so-many-bears' on the date '2016-07-12' are 2,816.
+The total errors for the article '/article/trouble-for-troubled' on the date '2016-07-12' are 2,780.
+The total errors for the article '/article/bad-things-gone' on the date '2016-07-13' are 5,599.
+The total errors for the article '/article/balloon-goons-doomed' on the date '2016-07-13' are 2,732.
+The total errors for the article '/article/bears-love-berries' on the date '2016-07-13' are 8,358.
+The total errors for the article '/article/candidate-is-jerk' on the date '2016-07-13' are 11,169.
+The total errors for the article '/article/goats-eat-googles' on the date '2016-07-13' are 2,721.
+The total errors for the article '/article/media-obsessed-with-bears' on the date '2016-07-13' are 2,777.
+The total errors for the article '/article/so-many-bears' on the date '2016-07-13' are 2,780.
+The total errors for the article '/article/trouble-for-troubled' on the date '2016-07-13' are 2,878.
+The total errors for the article '/article/bad-things-gone' on the date '2016-07-14' are 5,543.
+The total errors for the article '/article/balloon-goons-doomed' on the date '2016-07-14' are 2,734.
+The total errors for the article '/article/bears-love-berries' on the date '2016-07-14' are 8,326.
+The total errors for the article '/article/candidate-is-jerk' on the date '2016-07-14' are 11,106.
+The total errors for the article '/article/goats-eat-googles' on the date '2016-07-14' are 2,790.
+The total errors for the article '/article/media-obsessed-with-bears' on the date '2016-07-14' are 2,786.
+The total errors for the article '/article/so-many-bears' on the date '2016-07-14' are 2,716.
+The total errors for the article '/article/trouble-for-troubled' on the date '2016-07-14' are 2,819.
+The total errors for the article '/article/bad-things-gone' on the date '2016-07-15' are 5,534.
+The total errors for the article '/article/balloon-goons-doomed' on the date '2016-07-15' are 2,711.
+The total errors for the article '/article/bears-love-berries' on the date '2016-07-15' are 8,281.
+The total errors for the article '/article/candidate-is-jerk' on the date '2016-07-15' are 11,181.
+The total errors for the article '/article/goats-eat-googles' on the date '2016-07-15' are 2,798.
+The total errors for the article '/article/media-obsessed-with-bears' on the date '2016-07-15' are 2,774.
+The total errors for the article '/article/so-many-bears' on the date '2016-07-15' are 2,756.
+The total errors for the article '/article/trouble-for-troubled' on the date '2016-07-15' are 2,760.
+The total errors for the article '/article/bad-things-gone' on the date '2016-07-16' are 5,436.
+The total errors for the article '/article/balloon-goons-doomed' on the date '2016-07-16' are 2,780.
+The total errors for the article '/article/bears-love-berries' on the date '2016-07-16' are 8,306.
+The total errors for the article '/article/candidate-is-jerk' on the date '2016-07-16' are 11,152.
+The total errors for the article '/article/goats-eat-googles' on the date '2016-07-16' are 2,773.
+The total errors for the article '/article/media-obsessed-with-bears' on the date '2016-07-16' are 2,742.
+The total errors for the article '/article/so-many-bears' on the date '2016-07-16' are 2,824.
+The total errors for the article '/article/trouble-for-troubled' on the date '2016-07-16' are 2,801.
+The total errors for the article '/article/bad-things-gone' on the date '2016-07-17' are 5,546.
+The total errors for the article '/article/balloon-goons-doomed' on the date '2016-07-17' are 2,829.
+The total errors for the article '/article/bears-love-berries' on the date '2016-07-17' are 8,150.
+The total errors for the article '/article/candidate-is-jerk' on the date '2016-07-17' are 11,015.
+The total errors for the article '/article/goats-eat-googles' on the date '2016-07-17' are 2,887.
+The total errors for the article '/article/media-obsessed-with-bears' on the date '2016-07-17' are 2,750.
+The total errors for the article '/article/so-many-bears' on the date '2016-07-17' are 2,824.
+The total errors for the article '/article/trouble-for-troubled' on the date '2016-07-17' are 2,730.
+The total errors for the article '/article/bad-things-gone' on the date '2016-07-18' are 5,616.
+The total errors for the article '/article/balloon-goons-doomed' on the date '2016-07-18' are 2,773.
+The total errors for the article '/article/bears-love-berries' on the date '2016-07-18' are 8,512.
+The total errors for the article '/article/candidate-is-jerk' on the date '2016-07-18' are 11,299.
+The total errors for the article '/article/goats-eat-googles' on the date '2016-07-18' are 2,803.
+The total errors for the article '/article/media-obsessed-with-bears' on the date '2016-07-18' are 2,831.
+The total errors for the article '/article/so-many-bears' on the date '2016-07-18' are 2,776.
+The total errors for the article '/article/trouble-for-troubled' on the date '2016-07-18' are 2,820.
+The total errors for the article '/article/bad-things-gone' on the date '2016-07-19' are 5,582.
+The total errors for the article '/article/balloon-goons-doomed' on the date '2016-07-19' are 2,728.
+The total errors for the article '/article/bears-love-berries' on the date '2016-07-19' are 8,301.
+The total errors for the article '/article/candidate-is-jerk' on the date '2016-07-19' are 11,125.
+The total errors for the article '/article/goats-eat-googles' on the date '2016-07-19' are 2,829.
+The total errors for the article '/article/media-obsessed-with-bears' on the date '2016-07-19' are 2,824.
+The total errors for the article '/article/so-many-bears' on the date '2016-07-19' are 2,899.
+The total errors for the article '/article/trouble-for-troubled' on the date '2016-07-19' are 2,857.
+The total errors for the article '/article/bad-things-gone' on the date '2016-07-20' are 5,547.
+The total errors for the article '/article/balloon-goons-doomed' on the date '2016-07-20' are 2,803.
+The total errors for the article '/article/bears-love-berries' on the date '2016-07-20' are 8,165.
+The total errors for the article '/article/candidate-is-jerk' on the date '2016-07-20' are 11,014.
+The total errors for the article '/article/goats-eat-googles' on the date '2016-07-20' are 2,806.
+The total errors for the article '/article/media-obsessed-with-bears' on the date '2016-07-20' are 2,733.
+The total errors for the article '/article/so-many-bears' on the date '2016-07-20' are 2,744.
+The total errors for the article '/article/trouble-for-troubled' on the date '2016-07-20' are 2,733.
+The total errors for the article '/article/bad-things-gone' on the date '2016-07-21' are 5,630.
+The total errors for the article '/article/balloon-goons-doomed' on the date '2016-07-21' are 2,791.
+The total errors for the article '/article/bears-love-berries' on the date '2016-07-21' are 8,329.
+The total errors for the article '/article/candidate-is-jerk' on the date '2016-07-21' are 11,153.
+The total errors for the article '/article/goats-eat-googles' on the date '2016-07-21' are 2,861.
+The total errors for the article '/article/media-obsessed-with-bears' on the date '2016-07-21' are 2,800.
+The total errors for the article '/article/so-many-bears' on the date '2016-07-21' are 2,805.
+The total errors for the article '/article/trouble-for-troubled' on the date '2016-07-21' are 2,842.
+The total errors for the article '/article/bad-things-gone' on the date '2016-07-22' are 5,728.
+The total errors for the article '/article/balloon-goons-doomed' on the date '2016-07-22' are 2,795.
+The total errors for the article '/article/bears-love-berries' on the date '2016-07-22' are 8,333.
+The total errors for the article '/article/candidate-is-jerk' on the date '2016-07-22' are 11,021.
+The total errors for the article '/article/goats-eat-googles' on the date '2016-07-22' are 2,723.
+The total errors for the article '/article/media-obsessed-with-bears' on the date '2016-07-22' are 2,760.
+The total errors for the article '/article/so-many-bears' on the date '2016-07-22' are 2,668.
+The total errors for the article '/article/trouble-for-troubled' on the date '2016-07-22' are 2,736.
+The total errors for the article '/article/bad-things-gone' on the date '2016-07-23' are 5,681.
+The total errors for the article '/article/balloon-goons-doomed' on the date '2016-07-23' are 2,813.
+The total errors for the article '/article/bears-love-berries' on the date '2016-07-23' are 8,387.
+The total errors for the article '/article/candidate-is-jerk' on the date '2016-07-23' are 11,154.
+The total errors for the article '/article/goats-eat-googles' on the date '2016-07-23' are 2,762.
+The total errors for the article '/article/media-obsessed-with-bears' on the date '2016-07-23' are 2,807.
+The total errors for the article '/article/so-many-bears' on the date '2016-07-23' are 2,638.
+The total errors for the article '/article/trouble-for-troubled' on the date '2016-07-23' are 2,800.
+The total errors for the article '/article/bad-things-gone' on the date '2016-07-24' are 5,474.
+The total errors for the article '/article/balloon-goons-doomed' on the date '2016-07-24' are 2,721.
+The total errors for the article '/article/bears-love-berries' on the date '2016-07-24' are 8,247.
+The total errors for the article '/article/candidate-is-jerk' on the date '2016-07-24' are 11,087.
+The total errors for the article '/article/goats-eat-googles' on the date '2016-07-24' are 2,787.
+The total errors for the article '/article/media-obsessed-with-bears' on the date '2016-07-24' are 2,735.
+The total errors for the article '/article/so-many-bears' on the date '2016-07-24' are 2,898.
+The total errors for the article '/article/trouble-for-troubled' on the date '2016-07-24' are 2,839.
+The total errors for the article '/article/bad-things-gone' on the date '2016-07-25' are 5,663.
+The total errors for the article '/article/balloon-goons-doomed' on the date '2016-07-25' are 2,727.
+The total errors for the article '/article/bears-love-berries' on the date '2016-07-25' are 8,244.
+The total errors for the article '/article/candidate-is-jerk' on the date '2016-07-25' are 10,956.
+The total errors for the article '/article/goats-eat-googles' on the date '2016-07-25' are 2,794.
+The total errors for the article '/article/media-obsessed-with-bears' on the date '2016-07-25' are 2,697.
+The total errors for the article '/article/so-many-bears' on the date '2016-07-25' are 2,667.
+The total errors for the article '/article/trouble-for-troubled' on the date '2016-07-25' are 2,721.
+The total errors for the article '/article/bad-things-gone' on the date '2016-07-26' are 5,525.
+The total errors for the article '/article/balloon-goons-doomed' on the date '2016-07-26' are 2,767.
+The total errors for the article '/article/bears-love-berries' on the date '2016-07-26' are 8,240.
+The total errors for the article '/article/candidate-is-jerk' on the date '2016-07-26' are 10,960.
+The total errors for the article '/article/goats-eat-googles' on the date '2016-07-26' are 2,811.
+The total errors for the article '/article/media-obsessed-with-bears' on the date '2016-07-26' are 2,768.
+The total errors for the article '/article/so-many-bears' on the date '2016-07-26' are 2,756.
+The total errors for the article '/article/trouble-for-troubled' on the date '2016-07-26' are 2,729.
+The total errors for the article '/article/bad-things-gone' on the date '2016-07-27' are 5,531.
+The total errors for the article '/article/balloon-goons-doomed' on the date '2016-07-27' are 2,733.
+The total errors for the article '/article/bears-love-berries' on the date '2016-07-27' are 8,400.
+The total errors for the article '/article/candidate-is-jerk' on the date '2016-07-27' are 11,081.
+The total errors for the article '/article/goats-eat-googles' on the date '2016-07-27' are 2,762.
+The total errors for the article '/article/media-obsessed-with-bears' on the date '2016-07-27' are 2,767.
+The total errors for the article '/article/so-many-bears' on the date '2016-07-27' are 2,736.
+The total errors for the article '/article/trouble-for-troubled' on the date '2016-07-27' are 2,733.
+The total errors for the article '/article/bad-things-gone' on the date '2016-07-28' are 5,560.
+The total errors for the article '/article/balloon-goons-doomed' on the date '2016-07-28' are 2,842.
+The total errors for the article '/article/bears-love-berries' on the date '2016-07-28' are 8,298.
+The total errors for the article '/article/candidate-is-jerk' on the date '2016-07-28' are 11,040.
+The total errors for the article '/article/goats-eat-googles' on the date '2016-07-28' are 2,757.
+The total errors for the article '/article/media-obsessed-with-bears' on the date '2016-07-28' are 2,773.
+The total errors for the article '/article/so-many-bears' on the date '2016-07-28' are 2,742.
+The total errors for the article '/article/trouble-for-troubled' on the date '2016-07-28' are 2,765.
+The total errors for the article '/article/bad-things-gone' on the date '2016-07-29' are 5,587.
+The total errors for the article '/article/balloon-goons-doomed' on the date '2016-07-29' are 2,778.
+The total errors for the article '/article/bears-love-berries' on the date '2016-07-29' are 8,230.
+The total errors for the article '/article/candidate-is-jerk' on the date '2016-07-29' are 10,983.
+The total errors for the article '/article/goats-eat-googles' on the date '2016-07-29' are 2,789.
+The total errors for the article '/article/media-obsessed-with-bears' on the date '2016-07-29' are 2,838.
+The total errors for the article '/article/so-many-bears' on the date '2016-07-29' are 2,823.
+The total errors for the article '/article/trouble-for-troubled' on the date '2016-07-29' are 2,716.
+The total errors for the article '/article/bad-things-gone' on the date '2016-07-30' are 5,714.
+The total errors for the article '/article/balloon-goons-doomed' on the date '2016-07-30' are 2,775.
+The total errors for the article '/article/bears-love-berries' on the date '2016-07-30' are 8,342.
+The total errors for the article '/article/candidate-is-jerk' on the date '2016-07-30' are 11,099.
+The total errors for the article '/article/goats-eat-googles' on the date '2016-07-30' are 2,784.
+The total errors for the article '/article/media-obsessed-with-bears' on the date '2016-07-30' are 2,785.
+The total errors for the article '/article/so-many-bears' on the date '2016-07-30' are 2,713.
+The total errors for the article '/article/trouble-for-troubled' on the date '2016-07-30' are 2,831.
+The total errors for the article '/article/bad-things-gone' on the date '2016-07-31' are 3,023.
+The total errors for the article '/article/balloon-goons-doomed' on the date '2016-07-31' are 1,452.
+The total errors for the article '/article/bears-love-berries' on the date '2016-07-31' are 4,477.
+The total errors for the article '/article/candidate-is-jerk' on the date '2016-07-31' are 5,900.
+The total errors for the article '/article/goats-eat-googles' on the date '2016-07-31' are 1,518.
+The total errors for the article '/article/media-obsessed-with-bears' on the date '2016-07-31' are 1,512.
+The total errors for the article '/article/so-many-bears' on the date '2016-07-31' are 1,531.
+The total errors for the article '/article/trouble-for-troubled' on the date '2016-07-31' are 1,528.
+-------------------------
+
+Process finished with exit code 0
