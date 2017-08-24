@@ -29,7 +29,7 @@ def get_status_log():
         JOIN articles
         ON t.path =
         CONCAT('/article/', articles.slug)
-        WHERE t.error >= '1';
+        HAVING t.error >= '1';
     """
     cursor.execute(error_reports)
     return cursor.fetchall()
