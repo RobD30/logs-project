@@ -27,7 +27,7 @@ def get_status_log():
         SELECT t.error, t.path
         FROM t
         JOIN articles
-        ON t.path = t.time,
+        ON t.path =
         CONCAT('/article/', articles.slug);
     """
     cursor.execute(error_reports)
