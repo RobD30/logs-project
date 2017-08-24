@@ -4,7 +4,7 @@ from modules import formatter
 
 def main():
     print_error_logs()
-
+# Super duper radical change incoming
 
 def get_status_log():
     cursor = connection.get_connection()
