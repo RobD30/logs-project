@@ -5,11 +5,11 @@ from modules import formatter
 def get_top_three_authors():
     cursor = connection.get_connection()
     top_three_authors = """
-        SELECT name, author, title, path, COUNT(path) AS hits
+        SELECT name, COUNT(path) AS hits
         FROM articles, log, authors
         WHERE log.path = CONCAT('/article/', articles.slug)
         AND articles.author = authors.id
-        GROUP BY path, title, name, author
+        GROUP BY name
         ORDER BY hits DESC;
     """
     cursor.execute(top_three_authors)
