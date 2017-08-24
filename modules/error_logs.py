@@ -24,12 +24,11 @@ def get_status_log():
             log.path
         FROM log
         GROUP BY time::DATE, path)
-        SELECT t.time, t.error, t.path, t.success
+        SELECT t.error, t.path
         FROM t
         JOIN articles
         ON t.path =
-        CONCAT('/article/', articles.slug)
-        HAVING t.error >= '1';
+        CONCAT('/article/', articles.slug);
     """
     cursor.execute(error_reports)
     return cursor.fetchall()
