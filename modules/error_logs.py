@@ -38,9 +38,9 @@ def print_error_logs():
     print("Errors:")
     formatter.repeat_separator()
     for item in get_status_log():
-        # print(item)
-        print("The total errors for the article '" + str(item[1]) +
-              "' on the date '" + str(item[1]) +
+        print(item)
+        print("The total errors for the article '" + str(item[0]) +
+              "' on the date '" + str(item[0]) +
               "' are " + formatter.format_num(int(item[0])) + '.')
     formatter.repeat_separator()
 
