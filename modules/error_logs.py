@@ -41,7 +41,7 @@ def print_error_logs():
         # print(item)
         print("The total errors for the article '" + str(item[2]) +
               "' on the date '" + str(item[0]) +
-              "' are " + formatter.format_num(int(item[3])) + '.')
+              "' are " + formatter.format_num(int(item[1])) + '.')
     formatter.repeat_separator()
 
 
