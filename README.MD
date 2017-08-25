@@ -18,5 +18,4 @@ into the logs-project folder.
 
 #### Current Errors
 
-1. I did some refactoring and now I get no output from authors.py
-2. Confused on README requirement.
+1. No Current Errors.
