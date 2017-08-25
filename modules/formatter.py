@@ -3,4 +3,5 @@ def repeat_separator(num: int = 25, sep: str = '-'):
 
 
 def format_num(num: int) -> str:
+    print(num)
     return "{:,}".format(num)

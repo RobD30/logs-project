@@ -20,8 +20,9 @@ def print_authors():
     print("Top Authors:")
     formatter.repeat_separator()
     for item in get_authors():
-        print("The total views for the article '" + str(item[0]) +
-              "', by the author '" + str(item[0]) +
-              "' on the page '" + str(item[0]) +
-              "' are " + formatter.format_num(item[0]) + '.')
+        print("The total views for the author '" + str(item[0]) +
+              "' are " + formatter.format_num(item[1]) + '.')
     formatter.repeat_separator()
+
+if __name__ == '__main__':
+    print_authors()
