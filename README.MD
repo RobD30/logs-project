@@ -9,8 +9,12 @@ mind. By having to only run the ```main.py``` program it couldn't be easier to s
 
 ### How to Run the program
 
-1. Enter into the logs_project directory and ```run main.py```
-2. Enjoy the wonderful output
+1. Enter into the logs-project directory.
+2. Go through connection.py and replace **kwargs for connection.
+3. If you do not have the database initialized please do so now.
+4. ```pip install -r requirements.txt```
+5. Run main.py either by double clicking on the file or by typing ```python main.py``` into command while terminalled
+into the logs-project folder.
 
 #### Current Errors
 
